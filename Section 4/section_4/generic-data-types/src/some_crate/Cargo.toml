@@ -1,0 +1,6 @@
+[package]
+name = "some_crate"
+version = "0.1.0"
+authors = ["TheAdnan <adnankicin92@gmail.com>"]
+
+[dependencies]
